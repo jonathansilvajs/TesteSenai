@@ -1,0 +1,3 @@
+Support, implementation of all Avaya IP Office SMB products, ACCS, ACR/Xima Chronicall, ASBCE, AEP.
+Telecom team management, project management and execution, pre-sales.
+Development of intelligent Webchat middleware service, WhatsApp with ACR, Google DialogFlow, API consumption of integration with Broker's (Twilio, Zenvia, etc)
